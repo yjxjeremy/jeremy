@@ -1,0 +1,117 @@
+#hdlf{
+	border-color: red;
+	border-style: solid;
+	border-bottom: 2px;
+	float: left;
+	width: 100px;
+	height: 20px;
+	text-align: center;
+	
+}
+#hdrt{
+	float: left;
+	width: 100px;
+	border-bottom: 2px solid red;
+	text-align: center;
+}
+#hdft{
+	float: left;
+	width: 1074px;
+	border-bottom: 2px solid red;
+}
+#nv{
+	width: 1280px;
+	float: left;
+	border-collapse: 0px;
+	border-left: 0.0025rem solid black;
+	border-bottom: 0.0025rem solid black;
+	border-right: 0.0025rem solid black;
+}
+table{
+	font-size: 10px;
+}
+tr{
+	line-height: 30px;
+}
+.bx{
+	color: red;
+}
+#nltu{
+	float: left;
+	width: 1000px;
+}
+#linehei{
+	line-height: 40px;
+	width: 990px;
+	height: 40px;
+	float: left;
+	border-bottom: 0.0015rem solid lightgray;
+	margin-bottom: 15px;
+}
+#bti{
+	float: left;
+	width: 500px;
+	height: 40px;
+	margin-top: 10px;
+	font-weight: 600;
+}
+#bti2{
+	float: left;
+	width: 500px;
+	height: 40px;
+	font-size: 10px;
+	color: dimgrey;
+}
+#bti3{
+	float: left;
+	width: 500px;
+	height: 40px;
+	font-size: 10px;
+	color: dimgrey;
+}
+#numclr{
+	text-align: right;
+	margin-top: 100px;
+	color: red;
+	font-weight: 600;
+}
+#numclr span{
+	color: #e00;
+	font-size: 40px;
+}
+#img1{
+	margin-left: 30px;
+	margin-right: 30px;
+	width: 168px;
+	float: left;
+}
+#img1 img{
+	width: 168px;
+	height: 120px;
+}
+#rht{
+	float: left;
+	width: 240px;
+	margin-left: 30px;
+}
+#rht1 dt{
+	font-size: 18px;
+	background-color: darkred;
+}
+#rht1 dd{
+	font-size: 10px;
+	background-color: aquamarine;
+	margin-left: 0px;
+	padding: 5px 0px 0px 18px;
+	border-bottom: 2px solid blue;
+}
+#rht img{
+	width: 100%;
+}
+#nlft{
+	width: 1280px;
+	background-color: aquamarine;
+	float: left;
+	line-height: 40px;
+	font-size: 12px;
+}

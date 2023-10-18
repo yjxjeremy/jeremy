@@ -1,0 +1,67 @@
+#head{
+	width: 1180px;
+	height: 175px;
+	background-image: url("../img/1.jpg");
+	font-size: 80px;
+	font-family: '华文琥珀';
+	padding-top: 80px;
+	padding-left: 100px;
+}
+#nav{
+	background-color: skyblue;
+}
+#nav td{
+	width: 212px;
+	font-size: 30px;
+	text-align: right;
+}
+#nav td span{
+	font-size: 15px;
+	color: darkgrey;
+	text-align: right;
+}
+#left{
+	width: 200px;
+	float: left;
+}
+#lf1{
+	padding-top: 20px;
+	text-align: center;
+}
+#lf1 img{
+	width: 30%;
+	height: 30%;
+}
+#lf2 dt{
+	font-size: 18px;
+	background-color: darkred;
+}
+#lf2 dd{
+	font-size: 10px;
+	background-color: aquamarine;
+	margin-left: 0px;
+	padding: 5px 0px 0px 18px;
+	border-bottom: 2px solid blue;
+}
+#right{
+	width: 1080px;
+	box-sizing: border-box;
+	float: left;	
+	border-left: 1px solid;
+}
+#rtb{
+	width: 100%;
+	border: 0px;
+	box-shadow: 2px;
+}
+#rtb img{
+	width: 100%;
+}
+#rtb h1{
+	color: darkred;
+}
+#ft{
+	width: 1280px;
+	float: left;
+	margin-top: 10px;
+}
